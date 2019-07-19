@@ -1,0 +1,24 @@
+.section{
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #d9b38c;
+	width: 30%;
+
+
+}
+
+.logout{
+	margin-left: 90%
+}
+
+.add h5{
+	display: inline-block;
+	width: 150px
+
+}
+.entry h5{
+	margin: 10px 0px;
+	display: inline-block;
+	
+}
